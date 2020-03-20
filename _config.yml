@@ -1,7 +1,7 @@
 # Site settings
 title: Nie's blog
 SEOTitle: 聂君同学的博客
-header-img: 
+header-img: img/post-bg-rwd.jpg
 email: 15730475447@163.com
 description: "No pains, no gains."
 keyword: "聂君同学的博客, python,mysql,mangodb"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "但行好事，莫问前程。"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:  /img/will-wang.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
